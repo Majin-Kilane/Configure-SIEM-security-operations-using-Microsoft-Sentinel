@@ -6,10 +6,10 @@ The aim of this lab was to configure and manage SIEM security operations using M
 
 ### Skills Learned
 
-- Create and configure a Microsoft Sentinel workspace
-- Deploy a Microsoft Sentinel content hub solution
-- Configure analytics rules in Microsoft Sentinel
-- Configure automation in Microsoft Sentinel
+- Create and configure a Microsoft Sentinel workspace.
+- Deploy a Microsoft Sentinel content hub solution.
+- Configure analytics rules in Microsoft Sentinel.
+- Configure automation in Microsoft Sentinel.
 
 ### Tools Used
 
